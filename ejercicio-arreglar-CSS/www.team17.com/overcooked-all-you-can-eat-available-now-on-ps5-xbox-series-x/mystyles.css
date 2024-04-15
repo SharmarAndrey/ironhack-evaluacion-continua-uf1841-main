@@ -18,3 +18,10 @@
 .logos-social-networks {
 	justify-content: center;
 }
+
+/* Podemos tambien aplicar esta regla para centrar logos de eje X, pero no se si hay que hacer este porque estos elementos tienen margin write y margin bottom predterminado de bootstrap o de otro framework. Si hay que centrar de eje X hay que quitar comentario de proxima regla: (en teoria, si dejamos sin esta ultima regla todo sera como en ejemplo final) */
+
+/* .logos-social-networks a {
+	margin: 20px;
+}
+ */
