@@ -5,3 +5,16 @@
 /* h1 {
     color: red;
 } */
+.published-date {
+	color: #f77d00;
+}
+.site-header > :nth-child(3) {
+	background-color: rgb(132, 0, 197);
+	opacity: 85%;
+}
+.post-content h4:first-of-type {
+	text-align: center;
+}
+.logos-social-networks {
+	justify-content: center;
+}
